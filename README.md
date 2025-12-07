@@ -1,8 +1,6 @@
 # 🔐 Passwortgenerator
 
-<p align="center">
-  <img src="passwordgeneratorPng.png" alt="Passwordgenerator" width="420">
-</p>
+![Screenshot des Passwortgenerators](passwordgenerator.png)
 
 Ein leichter, schneller **Tkinter-Passwortgenerator**, der sichere Passwörter per Klick erzeugt.  
 Länge auswählen → „Generieren“ → fertig.  
